@@ -1,0 +1,32 @@
+# Veri (çok büyük, Kaggle'dan indirilir)
+data/
+
+# Kaydedilmiş model ağırlıkları
+results/*.keras
+results/*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+model,preprocessing,accuracy,precision,recall,f1,auc
+custom_cnn,minimal,0.8814,0.8641,0.9615,0.9102,0.9177
+custom_cnn,clahe,0.8317,0.795,0.9846,0.8797,0.9202
+vgg16,minimal,0.9119,0.8923,0.9769,0.9327,0.9756
+vgg16,clahe,0.9006,0.885,0.9667,0.924,0.9647
+resnet50,minimal,0.875,0.8594,0.9564,0.9053,0.9453
+resnet50,clahe,0.8766,0.8598,0.959,0.9067,0.9468
